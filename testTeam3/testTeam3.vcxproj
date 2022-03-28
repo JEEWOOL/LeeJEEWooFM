@@ -140,6 +140,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="first.c" />
+    <ClCompile Include="five.c" />
+    <ClCompile Include="for.c" />
+    <ClCompile Include="thr.c" />
+    <ClCompile Include="two.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

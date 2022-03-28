@@ -18,5 +18,17 @@
     <ClCompile Include="first.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="two.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="thr.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="for.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="five.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
